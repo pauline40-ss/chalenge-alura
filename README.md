@@ -7,6 +7,6 @@ prática dos conhecimentos compartilhados no curso T5 ONE
 
 MINHA MAIS NOVA BADGE
 
-<img src="imagens/badge.jpg"/>
+<img src="imagens/badge.png"/>
 
 
